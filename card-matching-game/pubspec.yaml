@@ -1,4 +1,4 @@
-name: card_matching_game
+name: card-matching-game
 description: A Flutter card matching game.
 
 publish_to: 'none'
